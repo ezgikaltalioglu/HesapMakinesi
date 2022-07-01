@@ -32,6 +32,7 @@ public class MainActivity extends AppCompatActivity {
             int numberiki = Integer.parseInt(number2.getText().toString());
             int result = numberbir + numberiki;
             resultText.setText("Result: " + result);
+
         }
     }
 
